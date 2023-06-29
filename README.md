@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Brendan D'Aquino. I recently graduated from Northeastern University with a Bachelor's in Computer Science and Physics. My background consists of a lot of physics research and data analysis. Currently, I intern at the Smithsonian @Harvard University.
 
-A fun fact about myself is that I can ride the unicycle. I've also been to Greece and wish to travel more in the future.
